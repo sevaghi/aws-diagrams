@@ -56,7 +56,7 @@
           <mxGeometry height="880" width="390" x="-510" y="91" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-146" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="113" width="80" x="1015.5" y="371" as="geometry" />
+          <mxGeometry height="113" width="80" x="680" y="490" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-144" parent="YZ5FD3o4VwClrjpdfxWy-146" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.s3_object_lock;" value="" vertex="1">
           <mxGeometry height="78" width="71" x="4.5" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-27" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="ITSM Cloud" vertex="1">
-          <mxGeometry height="130" width="220" x="-811" y="477" as="geometry" />
+          <mxGeometry height="130" width="220" x="-811" y="476" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-31" parent="YZ5FD3o4VwClrjpdfxWy-27" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.forums;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="65" width="66.71" x="40" y="32.5" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-157" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="112" width="80" x="-982" y="483" as="geometry" />
+          <mxGeometry height="112" width="80" x="-982" y="482" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-155" parent="YZ5FD3o4VwClrjpdfxWy-157" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="78" width="60" x="10" as="geometry" />
@@ -357,6 +357,36 @@
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-257" parent="YZ5FD3o4VwClrjpdfxWy-255" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="AWS CloudTrail" vertex="1">
           <mxGeometry height="30" width="80" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YZ5FD3o4VwClrjpdfxWy-258" edge="1" parent="1" source="YZ5FD3o4VwClrjpdfxWy-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="YZ5FD3o4VwClrjpdfxWy-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="680" />
+              <mxPoint x="550" y="680" />
+              <mxPoint x="550" y="550" />
+            </Array>
+            <mxPoint x="680" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ5FD3o4VwClrjpdfxWy-259" edge="1" parent="1" source="YZ5FD3o4VwClrjpdfxWy-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="YZ5FD3o4VwClrjpdfxWy-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="380" />
+              <mxPoint x="550" y="380" />
+              <mxPoint x="550" y="550" />
+            </Array>
+            <mxPoint x="680" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YZ5FD3o4VwClrjpdfxWy-260" edge="1" parent="1" source="YZ5FD3o4VwClrjpdfxWy-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.771;entryDx=0;entryDy=0;entryPerimeter=0;" target="YZ5FD3o4VwClrjpdfxWy-144">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="213" y="80" />
+              <mxPoint x="550" y="80" />
+              <mxPoint x="550" y="550" />
+            </Array>
+            <mxPoint x="680" y="550" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
