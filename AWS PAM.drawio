@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Página-1" id="pGXYbxf0R8wC-Ta2fj6N">
-    <mxGraphModel dx="4002" dy="2459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3175" dy="2459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-157" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="112" width="80" x="-910" y="501" as="geometry" />
+          <mxGeometry height="112" width="80" x="-714" y="321.25" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-155" parent="YZ5FD3o4VwClrjpdfxWy-157" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="78" width="60" x="10" as="geometry" />
@@ -85,7 +85,7 @@
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-156" parent="YZ5FD3o4VwClrjpdfxWy-157" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Técnico" vertex="1">
           <mxGeometry height="30" width="80" y="82" as="geometry" />
         </mxCell>
-        <mxCell id="YZ5FD3o4VwClrjpdfxWy-158" edge="1" parent="1" source="YZ5FD3o4VwClrjpdfxWy-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="YZ5FD3o4VwClrjpdfxWy-27">
+        <mxCell id="YZ5FD3o4VwClrjpdfxWy-158" edge="1" parent="1" source="YZ5FD3o4VwClrjpdfxWy-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YZ5FD3o4VwClrjpdfxWy-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-6" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
