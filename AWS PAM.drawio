@@ -235,7 +235,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-55" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.finding;" value="" vertex="1">
-          <mxGeometry height="53.5" width="48.01" x="679" y="635" as="geometry" />
+          <mxGeometry height="53.5" width="48.01" x="675" y="639" as="geometry" />
         </mxCell>
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-62" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="118.75" width="80" x="504" y="240" as="geometry" />
