@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Página-1" id="pGXYbxf0R8wC-Ta2fj6N">
-    <mxGraphModel dx="3079" dy="2066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3379" dy="2255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,6 +440,11 @@
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-376" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="130" width="80" x="505" y="620" as="geometry" />
         </mxCell>
+        <mxCell id="X0KYTCHoeqVxAIpCjC8f-441" edge="1" parent="X0KYTCHoeqVxAIpCjC8f-376" source="X0KYTCHoeqVxAIpCjC8f-377" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-377" parent="X0KYTCHoeqVxAIpCjC8f-376" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.guardduty;" value="" vertex="1">
           <mxGeometry height="78" width="78" x="1" as="geometry" />
         </mxCell>
@@ -581,6 +586,11 @@
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-416" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="130" width="80" x="505" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="X0KYTCHoeqVxAIpCjC8f-442" edge="1" parent="X0KYTCHoeqVxAIpCjC8f-416" source="X0KYTCHoeqVxAIpCjC8f-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="X0KYTCHoeqVxAIpCjC8f-417" parent="X0KYTCHoeqVxAIpCjC8f-416" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.guardduty;" value="" vertex="1">
           <mxGeometry height="78" width="78" x="1" as="geometry" />
         </mxCell>
@@ -633,6 +643,11 @@
               <mxPoint x="620" y="709" />
               <mxPoint x="790" y="709" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X0KYTCHoeqVxAIpCjC8f-443" connectable="0" parent="X0KYTCHoeqVxAIpCjC8f-438" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;Findings&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.6837" y="1" as="geometry">
+            <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
