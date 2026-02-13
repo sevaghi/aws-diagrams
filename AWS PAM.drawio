@@ -8,7 +8,7 @@
           <mxGeometry height="1090" width="1851" x="-541" y="10" as="geometry" />
         </mxCell>
         <mxCell id="ADdlGaZUjw3xQjIrqEG9-18" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_account;strokeColor=#CD2264;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#CD2264;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="AWS Account -&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(205, 34, 100), rgb(255, 137, 194));&quot;&gt;Cuenta de Gestión&lt;/span&gt;" vertex="1">
-          <mxGeometry height="520" width="390" x="-510" y="400" as="geometry" />
+          <mxGeometry height="560" width="390" x="-510" y="380" as="geometry" />
         </mxCell>
         <mxCell id="YZ5FD3o4VwClrjpdfxWy-146" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="113" width="80" x="710" y="418.75" as="geometry" />
